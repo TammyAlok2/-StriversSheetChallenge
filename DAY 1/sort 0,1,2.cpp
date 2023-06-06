@@ -7,7 +7,7 @@ void sort012(int *arr, int n)
    while(mid<=high){
       if(arr[mid]==0){
          swap(arr[low],arr[mid]);
-         low++;
+         low++; d
          mid++;
       }
       else if (arr[mid]==1){
