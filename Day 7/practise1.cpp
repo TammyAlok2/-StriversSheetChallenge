@@ -48,3 +48,4 @@ reverse(head);
 Traverse(head);
     return 0;
 }
+oreversing hte  
