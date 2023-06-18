@@ -48,4 +48,4 @@ reverse(head);
 Traverse(head);
     return 0;
 }
-oreversing hte  
+oreversing hte  ner of the new product
